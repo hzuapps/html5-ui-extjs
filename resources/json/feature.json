@@ -1,0 +1,7 @@
+{
+	"feature" : {
+		"xtype" : "home-notfound",
+		"viewClass": "Infoaas.view.home.NotFound",
+		"viewPath" : ""
+	}
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html manifest="cache.appcache">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta content="./resources/images/infoaas.png" itemprop="image">
+    <link rel="icon" href="./resources/images/favicon.ico">
+    <link rel="stylesheet" href="./resources/classic/theme-gray/resources/theme-gray-all.css" />
+    <link rel="stylesheet" href="./resources/css/style.css" />
+
+    <title>Infoaas</title>
+</head>
+<body>
+    <div id="loading-mask"></div>
+    <div id="loading">
+        <div class="loading-indicator">
+            正在加载……
+        </div>
+    </div>
+    <script src="./resources/classic/ext-all.js"></script>
+    <script type="text/javascript">Ext.themeName='classic';</script>
+    <script type="text/javascript">document.getElementsByClassName('loading-indicator')[0].innerHTML='正在加载语言包……'; </script>
+    <script src="./resources/classic/locale/locale-zh_CN.js"></script>
+    <script type="text/javascript">document.getElementsByClassName('loading-indicator')[0].innerHTML='正在加载主题……'; </script>
+    <script src="./resources/classic/theme-gray/theme-gray.js"></script>
+    <script type="text/javascript">document.getElementsByClassName('loading-indicator')[0].innerHTML='开始初始化……'; </script>
+    <script src="./app.js"></script>
+</body>
+</html>

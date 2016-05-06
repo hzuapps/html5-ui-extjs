@@ -1,0 +1,7 @@
+{
+	"feature" : {
+		"xtype" : "system-settings",
+		"viewClass": "Infoaas.view.system.Settings",
+		"viewPath" : ""
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"menu": [{
+		"id": "feature-dashboard",
+		"text": "仪表板",
+		"icon": "resources/icons/dashboard_24.png"
+	}, {
+		"id": "feature-notifications",
+		"text": "系统消息",
+		"icon": "resources/icons/message_24.png"
+	}]
+}

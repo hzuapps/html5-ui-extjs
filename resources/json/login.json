@@ -1,0 +1,8 @@
+{
+	"success": true,
+	"user": {		
+		"username": "zengsn",
+		"nickname": "宁师",
+		"isAdmin" : true
+	}
+}

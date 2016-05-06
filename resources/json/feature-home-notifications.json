@@ -1,0 +1,7 @@
+{
+	"feature" : {
+		"xtype" : "home-notifications",
+		"viewClass": "Infoaas.view.home.Notifications",
+		"viewPath" : ""
+	}
+}

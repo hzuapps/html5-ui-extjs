@@ -1,0 +1,7 @@
+{
+	"feature" : {
+		"xtype" : "system-login",
+		"viewClass": "Infoaas.view.system.Login",
+		"viewPath" : ""
+	}
+}

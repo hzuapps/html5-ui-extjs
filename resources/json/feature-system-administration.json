@@ -1,0 +1,7 @@
+{
+	"feature" : {
+		"xtype" : "system-administration",
+		"viewClass": "Infoaas.view.system.Administration",
+		"viewPath" : ""
+	}
+}

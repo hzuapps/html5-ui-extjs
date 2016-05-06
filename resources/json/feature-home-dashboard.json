@@ -1,0 +1,7 @@
+{
+	"feature" : {
+		"xtype" : "home-dashboard",
+		"viewClass": "Infoaas.view.home.Dashboard",
+		"viewPath" : ""
+	}
+}
