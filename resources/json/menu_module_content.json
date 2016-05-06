@@ -1,0 +1,7 @@
+{
+	"menu": [{
+		"id": "feature-demo",
+		"text": "示例",
+		"icon": "resources/icons/chart_24.png"
+	}]
+}

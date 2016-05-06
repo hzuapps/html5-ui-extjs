@@ -1,0 +1,11 @@
+{
+	"menu": [{
+		"id": "navi-home",
+		"text": "首页",
+		"icon": "resources/icons/home_32.png"
+	}, {
+		"id": "navi-content",
+		"text": "内容",
+		"icon": "resources/icons/content_32.png"
+	}]
+}
